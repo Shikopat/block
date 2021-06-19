@@ -1,3 +1,4 @@
+ payload:
  - DOMAIN-SUFFIX,1000click.ir,REJECT
  - DOMAIN-SUFFIX,123pc.ir,REJECT
  - DOMAIN-SUFFIX,12azar.ir,REJECT
